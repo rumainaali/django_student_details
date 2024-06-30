@@ -1,5 +1,5 @@
 ##### django_student_details
-## HOW DOES IT WORK
+# HOW DOES IT WORK
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/cd9a012a-e21e-4c37-9447-3691830b2e46)
 
 For eg: My username: 'Rumaina'\
@@ -59,6 +59,7 @@ TEMPLATE_DIR = os.path.join(BASE_DIR2, 'templates')
 and add TEMPLATE_DIR in TEMPLATE_DIR = []
 
 ### STATIC
+___
 Html files can be stored in templates while css,images and other files can be included here.
 ```
 STATIC_DIR = os.path.join(BASE_DIR2, 'static')
