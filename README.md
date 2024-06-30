@@ -9,7 +9,7 @@ My password: '123'
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/7be47139-2e5e-4d57-aeac-4c10f0a90c88)
 
 
-After running the code from project using cmd ```python manage.py runserver 8000```, the default url would be at '127.0.0.1:8000' would display the student's list
+After running the code from project using command ```python manage.py runserver```, the default url would be at '127.0.0.1:8000' would display the student's list
 
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/7bc29bb9-6c56-421a-8011-99235ac4c463)
 
