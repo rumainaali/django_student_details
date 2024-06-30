@@ -27,7 +27,7 @@ and more
 
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/aa872460-3dbd-4efc-929f-7ac0925844ef)
 
-# HOW TO START THE PROJECT
+## HOW TO START THE PROJECT
 Step 1: Creating the django project by providing a directory to create a project and run the command:
 ```
 django-admin startproject 'projectname'
@@ -49,7 +49,7 @@ Step 6: Run your server with cmd:
 python manage.py runserver
 ```
 
-### TEMPLATES
+## TEMPLATES
 Create a folder in main application directory and make a file for your project in which the html file is stored.
 ```
 BASE_DIR2 = os.path.dirname(os.path.dirname(os.path.abspath(file)))
@@ -58,8 +58,7 @@ TEMPLATE_DIR = os.path.join(BASE_DIR2, 'templates')
 ```
 and add TEMPLATE_DIR in TEMPLATE_DIR = []
 
-### STATIC
-___
+## STATIC
 Html files can be stored in templates while css,images and other files can be included here.
 ```
 STATIC_DIR = os.path.join(BASE_DIR2, 'static')
