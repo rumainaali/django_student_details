@@ -1,4 +1,4 @@
-#### django_student_details
+### django_student_details
 # HOW DOES IT WORK
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/cd9a012a-e21e-4c37-9447-3691830b2e46)
 
