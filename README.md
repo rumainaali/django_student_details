@@ -15,9 +15,9 @@ Now edit the url as '127.0.0.1:8000/student/id/'
 
 For eg:'127.0.0.1:8000/student/1/'
 
-+'127.0.0.1:8000/student/2/'
+'127.0.0.1:8000/student/2/'
 
-+'127.0.0.1:8000/student/3/'
+'127.0.0.1:8000/student/3/'
 
 and more
 
@@ -57,22 +57,22 @@ STATIC_DIR = os.path.join(BASE_DIR2, 'static')
 ```
 Add your db to be translated code into Models.py
 
-##### Models.py
+#### Models.py
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/d471aae4-a113-4ad1-9156-ffd70d06bb64)
 
-##### Admin.py
+#### Admin.py
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/cb2855b1-2159-44a5-b590-d7da504a6c00)
 
-##### Urls.py
+#### Urls.py
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/e6192885-eefe-4038-ae5a-2c099dac70a4)
 
-##### Views.py
+#### Views.py
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/104f9f7f-a242-482a-8e85-8277ebd41a42)
 
-##### Students_detail.html
+#### Students_detail.html
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/8353144f-68a3-4cfd-8fe1-410494f89993)
 
-##### Students_list.html
+#### Students_list.html
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/bbbfa40e-1331-4c46-b799-b614916e1b7f)
 
 
