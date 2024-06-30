@@ -3,11 +3,14 @@
 ---
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/cd9a012a-e21e-4c37-9447-3691830b2e46)
 
-For eg: My username: 'Rumaina' 
+For eg: My username: 'Rumaina'\
 My password: '123'
+
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/7be47139-2e5e-4d57-aeac-4c10f0a90c88)
 
-After running the code from project using cmd ```python manage.py runserver 8000```, the default url would be at '127.0.0.1:8000' would display the student's list
+After running the code from project using cmd ```python manage.py runserver 8000```, the default url would be at '127.0.0.1:8000' would 
+
+display the student's list
 ![image](https://github.com/rumainaali/django_student_details/assets/126662274/7bc29bb9-6c56-421a-8011-99235ac4c463)
 
 Now edit the url as '127.0.0.1:8000/student/id/'
@@ -28,21 +31,21 @@ and more
 ---
 Step 1: Creating the django project by providing a directory to create a project and run the command:
                       ```
-                      django-admin startproject 'projectname'
+                      django-admin startproject 'projectname'\
                       ```
 Step 2: Creating the django application by changing the directory into the project and start the app with the command:
                              ```
-                             python manage.py startapp 'application_name'
+                             python manage.py startapp 'application_name'\
                              ```
-Step 3: Open 'settings.py' and include the app_name in 'installed apps'.
+Step 3: Open 'settings.py' and include the app_name in 'installed apps'.\
 
-Step 4: Provide 'views.py' with function setup.
+Step 4: Provide 'views.py' with function setup.\
 
-Step 5: Provide with the path to open the webpage and display the content.
+Step 5: Provide with the path to open the webpage and display the content.\
 
 Step 6: Run your server with cmd given below:
         ```        
-        python manage.py runserver
+        python manage.py runserver\
         ```
 # TEMPLATES
 ---
