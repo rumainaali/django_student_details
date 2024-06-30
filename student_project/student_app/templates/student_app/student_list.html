@@ -1,0 +1,21 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student List</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'student_app/styles.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h1>Student List</h1>
+        <ol>
+            {% for student in students %}
+            <li><a href="{% url 'student_detail' student.id %}">{{ student.name }}</a></li>
+            {% endfor %}
+        </ol>
+    </div>
+</body>
+</html>
