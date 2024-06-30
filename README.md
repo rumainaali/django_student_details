@@ -15,11 +15,7 @@ After running the code from project using cmd ```python manage.py runserver 8000
 
 Now edit the url as '127.0.0.1:8000/student/id/'
 
-For eg:'127.0.0.1:8000/student/1/'
-
-'127.0.0.1:8000/student/2/'
-
-'127.0.0.1:8000/student/3/'
+For eg:'127.0.0.1:8000/student/1/', '127.0.0.1:8000/student/2/', '127.0.0.1:8000/student/3/'
 
 and more
 
